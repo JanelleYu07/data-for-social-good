@@ -41,4 +41,4 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 
 ## Description 
 
-Our user story is, “As a mukbanger, I want to see what foods are trending, so that I can make content and get famous”.This project provides users with the name, number of locations in California, and 2023 revenue for each fast restaurant. With more locations and higher 2023 revenues, the users can infer a higher popularity, which can be used to film more viral mukbangs. With various methods, variables, parameters, and data sets, the 1D arrays are allowed to be printed out in the DataRunner class. 
+Our user story is, “As a mukbanger, I want to see what foods are trending, so that I can make content and get famous”. This project provides users with the name, number of locations in California, and 2023 revenue for each fast restaurant. With more locations and higher 2023 revenues, the users can infer a higher popularity, which can be used to film more viral mukbangs. With various methods, variables, parameters, and data sets, the 1D arrays are allowed to be printed out in the DataRunner class. 
